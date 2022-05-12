@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins", sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header{
+    background-image: url("Images/M3-Homepage-Desktop-LHD.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 52px;
+}
+
+.logo img{
+    display: flex;
+    width: 120px;
+}
+
+.middle ul{
+    list-style: none;
+    display: flex;
+    gap: 1.5em;
+}
+
+.right ul{
+    list-style: none;
+    display: flex;
+    gap: 1.5em;
+}
+
+a{
+    color: inherit;
+}
+
+/* End of Navbar */
+
+.hero-one{
+    margin-top: 70px;
+    display: flex;;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.under-model{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.buttons button{
+    font-size: 16px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(97, 91, 91);
+    border-radius: 15px;
+    border-style: none;
+}
+
+.modely {
+    background-image: url(Images/ModelY.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.modely {
+    background-image: url(Images/ModelY.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.modely {
+    background-image: url(Images/ModelY.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.models {
+    background-image: url(Images/ModelS.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.modelx {
+    background-image: url(Images/ModelX.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.solarpanel {
+    background-image: url(Images/Solar.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.solarroof {
+    background-image: url(Images/Roof.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.accessories {
+    background-image: url(Images/Accessories.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
